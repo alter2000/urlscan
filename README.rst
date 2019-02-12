@@ -57,6 +57,8 @@ Relative to urlview, urlscan has the following additional features:
 
 - Show complete help menu with `F1`. Hide header on startup with `--nohelp`.
 
+- Custom regular expressions changeable from separate file.
+
 Installation and setup
 ----------------------
 

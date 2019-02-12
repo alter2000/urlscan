@@ -40,6 +40,7 @@ try:
 except NameError:
     FileNotFoundError = IOError
 
+
 def shorten_url(url, cols, shorten):
     """Shorten long URLs to fit on one line.
 
